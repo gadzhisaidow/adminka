@@ -1,0 +1,22 @@
+{
+  "files": {
+    "app.js": "/gadzhisaidow/adminka/static/js/app.707fbf73.chunk.js",
+    "app.js.map": "/gadzhisaidow/adminka/static/js/app.707fbf73.chunk.js.map",
+    "runtime~app.js": "/gadzhisaidow/adminka/static/js/runtime~app.da378f5f.js",
+    "runtime~app.js.map": "/gadzhisaidow/adminka/static/js/runtime~app.da378f5f.js.map",
+    "static/js/2.baf1dbd6.chunk.js": "/gadzhisaidow/adminka/static/js/2.baf1dbd6.chunk.js",
+    "static/js/2.baf1dbd6.chunk.js.map": "/gadzhisaidow/adminka/static/js/2.baf1dbd6.chunk.js.map",
+    "favicon-16.png": "/gadzhisaidow/adminka/favicon-16.png",
+    "favicon-32.png": "/gadzhisaidow/adminka/favicon-32.png",
+    "favicon.ico": "/gadzhisaidow/adminka/favicon.ico",
+    "index.html": "/gadzhisaidow/adminka/index.html",
+    "manifest.json": "/gadzhisaidow/adminka/manifest.json",
+    "serve.json": "/gadzhisaidow/adminka/serve.json",
+    "static/js/2.baf1dbd6.chunk.js.LICENSE.txt": "/gadzhisaidow/adminka/static/js/2.baf1dbd6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime~app.da378f5f.js",
+    "static/js/2.baf1dbd6.chunk.js",
+    "static/js/app.707fbf73.chunk.js"
+  ]
+}
