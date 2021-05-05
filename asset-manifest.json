@@ -1,22 +1,22 @@
 {
   "files": {
-    "app.js": "/adminka/static/js/app.49b71258.chunk.js",
-    "app.js.map": "/adminka/static/js/app.49b71258.chunk.js.map",
+    "app.js": "/adminka/static/js/app.f5ea4c24.chunk.js",
+    "app.js.map": "/adminka/static/js/app.f5ea4c24.chunk.js.map",
     "runtime~app.js": "/adminka/static/js/runtime~app.415cf04a.js",
     "runtime~app.js.map": "/adminka/static/js/runtime~app.415cf04a.js.map",
-    "static/js/2.e90a2598.chunk.js": "/adminka/static/js/2.e90a2598.chunk.js",
-    "static/js/2.e90a2598.chunk.js.map": "/adminka/static/js/2.e90a2598.chunk.js.map",
+    "static/js/2.8482d0f2.chunk.js": "/adminka/static/js/2.8482d0f2.chunk.js",
+    "static/js/2.8482d0f2.chunk.js.map": "/adminka/static/js/2.8482d0f2.chunk.js.map",
     "favicon-16.png": "/adminka/favicon-16.png",
     "favicon-32.png": "/adminka/favicon-32.png",
     "favicon.ico": "/adminka/favicon.ico",
     "index.html": "/adminka/index.html",
     "manifest.json": "/adminka/manifest.json",
     "serve.json": "/adminka/serve.json",
-    "static/js/2.e90a2598.chunk.js.LICENSE.txt": "/adminka/static/js/2.e90a2598.chunk.js.LICENSE.txt"
+    "static/js/2.8482d0f2.chunk.js.LICENSE.txt": "/adminka/static/js/2.8482d0f2.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime~app.415cf04a.js",
-    "static/js/2.e90a2598.chunk.js",
-    "static/js/app.49b71258.chunk.js"
+    "static/js/2.8482d0f2.chunk.js",
+    "static/js/app.f5ea4c24.chunk.js"
   ]
 }
